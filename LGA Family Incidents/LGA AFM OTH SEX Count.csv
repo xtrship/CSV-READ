@@ -1,0 +1,791 @@
+﻿Year,Year ending,Local Government Area,OTH Sex,OTH Counter
+2025,June,Alpine,Females,55
+2025,June,Alpine,Males,109
+2025,June,Ararat,Females,65
+2025,June,Ararat,Males,250
+2025,June,Ballarat,Females,813
+2025,June,Ballarat,Males,2201
+2025,June,Banyule,Females,371
+2025,June,Banyule,Males,1160
+2025,June,Bass Coast,Females,254
+2025,June,Bass Coast,Males,677
+2025,June,Baw Baw,Females,332
+2025,June,Baw Baw,Males,943
+2025,June,Bayside,Females,226
+2025,June,Bayside,Males,587
+2025,June,Benalla,Females,82
+2025,June,Benalla,Males,331
+2025,June,Boroondara,Females,310
+2025,June,Boroondara,Males,775
+2025,June,Brimbank,Females,722
+2025,June,Brimbank,Males,2171
+2025,June,Buloke,Females,21
+2025,June,Buloke,Males,60
+2025,June,Campaspe,Females,180
+2025,June,Campaspe,Males,680
+2025,June,Cardinia,Females,509
+2025,June,Cardinia,Males,1569
+2025,June,Casey,Females,1492
+2025,June,Casey,Males,5012
+2025,June,Central Goldfields,Females,103
+2025,June,Central Goldfields,Males,305
+2025,June,Colac-Otway,Females,88
+2025,June,Colac-Otway,Males,397
+2025,June,Corangamite,Females,44
+2025,June,Corangamite,Males,180
+2025,June,Darebin,Females,449
+2025,June,Darebin,Males,1447
+2025,June,East Gippsland,Females,736
+2025,June,East Gippsland,Males,1755
+2025,June,Frankston,Females,748
+2025,June,Frankston,Males,2363
+2025,June,Gannawarra,Females,62
+2025,June,Gannawarra,Males,178
+2025,June,Glen Eira,Females,322
+2025,June,Glen Eira,Males,853
+2025,June,Glenelg,Females,129
+2025,June,Glenelg,Males,387
+2025,June,Golden Plains,Females,69
+2025,June,Golden Plains,Males,194
+2025,June,Greater Bendigo,Females,652
+2025,June,Greater Bendigo,Males,2026
+2025,June,Greater Dandenong,Females,740
+2025,June,Greater Dandenong,Males,2269
+2025,June,Greater Geelong,Females,1491
+2025,June,Greater Geelong,Males,4085
+2025,June,Greater Shepparton,Females,647
+2025,June,Greater Shepparton,Males,1795
+2025,June,Hepburn,Females,43
+2025,June,Hepburn,Males,151
+2025,June,Hindmarsh,Females,34
+2025,June,Hindmarsh,Males,85
+2025,June,Hobsons Bay,Females,271
+2025,June,Hobsons Bay,Males,805
+2025,June,Horsham,Females,166
+2025,June,Horsham,Males,549
+2025,June,Hume,Females,844
+2025,June,Hume,Males,3034
+2025,June,Indigo,Females,46
+2025,June,Indigo,Males,134
+2025,June,Kingston,Females,593
+2025,June,Kingston,Males,1467
+2025,June,Knox,Females,486
+2025,June,Knox,Males,1424
+2025,June,Latrobe,Females,785
+2025,June,Latrobe,Males,2235
+2025,June,Loddon,Females,43
+2025,June,Loddon,Males,101
+2025,June,Macedon Ranges,Females,111
+2025,June,Macedon Ranges,Males,432
+2025,June,Manningham,Females,236
+2025,June,Manningham,Males,624
+2025,June,Mansfield,Females,25
+2025,June,Mansfield,Males,90
+2025,June,Maribyrnong,Females,255
+2025,June,Maribyrnong,Males,962
+2025,June,Maroondah,Females,390
+2025,June,Maroondah,Males,1094
+2025,June,Melbourne,Females,522
+2025,June,Melbourne,Males,1645
+2025,June,Melton,Females,955
+2025,June,Melton,Males,2672
+2025,June,Merri-bek,Females,445
+2025,June,Merri-bek,Males,1441
+2025,June,Mildura,Females,631
+2025,June,Mildura,Males,1556
+2025,June,Mitchell,Females,297
+2025,June,Mitchell,Males,1080
+2025,June,Moira,Females,171
+2025,June,Moira,Males,496
+2025,June,Monash,Females,468
+2025,June,Monash,Males,1450
+2025,June,Moonee Valley,Females,286
+2025,June,Moonee Valley,Males,1049
+2025,June,Moorabool,Females,232
+2025,June,Moorabool,Males,550
+2025,June,Mornington Peninsula,Females,675
+2025,June,Mornington Peninsula,Males,1840
+2025,June,Mount Alexander,Females,67
+2025,June,Mount Alexander,Males,225
+2025,June,Moyne,Females,55
+2025,June,Moyne,Males,182
+2025,June,Murrindindi,Females,50
+2025,June,Murrindindi,Males,155
+2025,June,Nillumbik,Females,111
+2025,June,Nillumbik,Males,406
+2025,June,Northern Grampians,Females,78
+2025,June,Northern Grampians,Males,266
+2025,June,Port Phillip,Females,364
+2025,June,Port Phillip,Males,1256
+2025,June,Pyrenees,Females,32
+2025,June,Pyrenees,Males,90
+2025,June,Queenscliffe,Females,
+2025,June,Queenscliffe,Males,
+2025,June,South Gippsland,Females,168
+2025,June,South Gippsland,Males,435
+2025,June,Southern Grampians,Females,133
+2025,June,Southern Grampians,Males,237
+2025,June,Stonnington,Females,308
+2025,June,Stonnington,Males,822
+2025,June,Strathbogie,Females,66
+2025,June,Strathbogie,Males,117
+2025,June,Surf Coast,Females,90
+2025,June,Surf Coast,Males,260
+2025,June,Swan Hill,Females,168
+2025,June,Swan Hill,Males,475
+2025,June,Towong,Females,28
+2025,June,Towong,Males,53
+2025,June,Wangaratta,Females,190
+2025,June,Wangaratta,Males,522
+2025,June,Warrnambool,Females,194
+2025,June,Warrnambool,Males,680
+2025,June,Wellington,Females,422
+2025,June,Wellington,Males,1084
+2025,June,West Wimmera,Females,11
+2025,June,West Wimmera,Males,59
+2025,June,Whitehorse,Females,397
+2025,June,Whitehorse,Males,1098
+2025,June,Whittlesea,Females,732
+2025,June,Whittlesea,Males,2575
+2025,June,Wodonga,Females,297
+2025,June,Wodonga,Males,818
+2025,June,Wyndham,Females,935
+2025,June,Wyndham,Males,3204
+2025,June,Yarra,Females,349
+2025,June,Yarra,Males,984
+2025,June,Yarra Ranges,Females,528
+2025,June,Yarra Ranges,Males,1511
+2025,June,Yarriambiack,Females,38
+2025,June,Yarriambiack,Males,118
+2024,June,Alpine,Females,31
+2024,June,Alpine,Males,95
+2024,June,Ararat,Females,71
+2024,June,Ararat,Males,255
+2024,June,Ballarat,Females,663
+2024,June,Ballarat,Males,1900
+2024,June,Banyule,Females,351
+2024,June,Banyule,Males,1060
+2024,June,Bass Coast,Females,227
+2024,June,Bass Coast,Males,635
+2024,June,Baw Baw,Females,333
+2024,June,Baw Baw,Males,960
+2024,June,Bayside,Females,218
+2024,June,Bayside,Males,526
+2024,June,Benalla,Females,71
+2024,June,Benalla,Males,284
+2024,June,Boroondara,Females,315
+2024,June,Boroondara,Males,756
+2024,June,Brimbank,Females,690
+2024,June,Brimbank,Males,2302
+2024,June,Buloke,Females,14
+2024,June,Buloke,Males,47
+2024,June,Campaspe,Females,174
+2024,June,Campaspe,Males,654
+2024,June,Cardinia,Females,383
+2024,June,Cardinia,Males,1312
+2024,June,Casey,Females,1325
+2024,June,Casey,Males,4400
+2024,June,Central Goldfields,Females,96
+2024,June,Central Goldfields,Males,259
+2024,June,Colac-Otway,Females,110
+2024,June,Colac-Otway,Males,342
+2024,June,Corangamite,Females,49
+2024,June,Corangamite,Males,166
+2024,June,Darebin,Females,418
+2024,June,Darebin,Males,1334
+2024,June,East Gippsland,Females,554
+2024,June,East Gippsland,Males,1458
+2024,June,Frankston,Females,861
+2024,June,Frankston,Males,2188
+2024,June,Gannawarra,Females,58
+2024,June,Gannawarra,Males,153
+2024,June,Glen Eira,Females,303
+2024,June,Glen Eira,Males,782
+2024,June,Glenelg,Females,140
+2024,June,Glenelg,Males,343
+2024,June,Golden Plains,Females,62
+2024,June,Golden Plains,Males,163
+2024,June,Greater Bendigo,Females,641
+2024,June,Greater Bendigo,Males,1949
+2024,June,Greater Dandenong,Females,653
+2024,June,Greater Dandenong,Males,1992
+2024,June,Greater Geelong,Females,1329
+2024,June,Greater Geelong,Males,3752
+2024,June,Greater Shepparton,Females,523
+2024,June,Greater Shepparton,Males,1540
+2024,June,Hepburn,Females,55
+2024,June,Hepburn,Males,148
+2024,June,Hindmarsh,Females,29
+2024,June,Hindmarsh,Males,70
+2024,June,Hobsons Bay,Females,267
+2024,June,Hobsons Bay,Males,761
+2024,June,Horsham,Females,182
+2024,June,Horsham,Males,516
+2024,June,Hume,Females,865
+2024,June,Hume,Males,2761
+2024,June,Indigo,Females,58
+2024,June,Indigo,Males,117
+2024,June,Kingston,Females,500
+2024,June,Kingston,Males,1320
+2024,June,Knox,Females,513
+2024,June,Knox,Males,1487
+2024,June,Latrobe,Females,849
+2024,June,Latrobe,Males,2191
+2024,June,Loddon,Females,34
+2024,June,Loddon,Males,79
+2024,June,Macedon Ranges,Females,96
+2024,June,Macedon Ranges,Males,426
+2024,June,Manningham,Females,269
+2024,June,Manningham,Males,750
+2024,June,Mansfield,Females,22
+2024,June,Mansfield,Males,114
+2024,June,Maribyrnong,Females,267
+2024,June,Maribyrnong,Males,847
+2024,June,Maroondah,Females,368
+2024,June,Maroondah,Males,1041
+2024,June,Melbourne,Females,510
+2024,June,Melbourne,Males,1622
+2024,June,Melton,Females,813
+2024,June,Melton,Males,2407
+2024,June,Merri-bek,Females,454
+2024,June,Merri-bek,Males,1330
+2024,June,Mildura,Females,525
+2024,June,Mildura,Males,1565
+2024,June,Mitchell,Females,334
+2024,June,Mitchell,Males,992
+2024,June,Moira,Females,164
+2024,June,Moira,Males,481
+2024,June,Monash,Females,570
+2024,June,Monash,Males,1350
+2024,June,Moonee Valley,Females,349
+2024,June,Moonee Valley,Males,1002
+2024,June,Moorabool,Females,170
+2024,June,Moorabool,Males,451
+2024,June,Mornington Peninsula,Females,650
+2024,June,Mornington Peninsula,Males,1626
+2024,June,Mount Alexander,Females,57
+2024,June,Mount Alexander,Males,163
+2024,June,Moyne,Females,33
+2024,June,Moyne,Males,162
+2024,June,Murrindindi,Females,42
+2024,June,Murrindindi,Males,145
+2024,June,Nillumbik,Females,110
+2024,June,Nillumbik,Males,327
+2024,June,Northern Grampians,Females,95
+2024,June,Northern Grampians,Males,271
+2024,June,Port Phillip,Females,301
+2024,June,Port Phillip,Males,1053
+2024,June,Pyrenees,Females,36
+2024,June,Pyrenees,Males,83
+2024,June,Queenscliffe,Females,5
+2024,June,Queenscliffe,Males,13
+2024,June,South Gippsland,Females,151
+2024,June,South Gippsland,Males,423
+2024,June,Southern Grampians,Females,119
+2024,June,Southern Grampians,Males,243
+2024,June,Stonnington,Females,232
+2024,June,Stonnington,Males,710
+2024,June,Strathbogie,Females,36
+2024,June,Strathbogie,Males,112
+2024,June,Surf Coast,Females,70
+2024,June,Surf Coast,Males,194
+2024,June,Swan Hill,Females,210
+2024,June,Swan Hill,Males,488
+2024,June,Towong,Females,12
+2024,June,Towong,Males,64
+2024,June,Wangaratta,Females,188
+2024,June,Wangaratta,Males,459
+2024,June,Warrnambool,Females,181
+2024,June,Warrnambool,Males,580
+2024,June,Wellington,Females,357
+2024,June,Wellington,Males,975
+2024,June,West Wimmera,Females,14
+2024,June,West Wimmera,Males,50
+2024,June,Whitehorse,Females,458
+2024,June,Whitehorse,Males,1063
+2024,June,Whittlesea,Females,603
+2024,June,Whittlesea,Males,2283
+2024,June,Wodonga,Females,282
+2024,June,Wodonga,Males,771
+2024,June,Wyndham,Females,1017
+2024,June,Wyndham,Males,3367
+2024,June,Yarra,Females,285
+2024,June,Yarra,Males,750
+2024,June,Yarra Ranges,Females,538
+2024,June,Yarra Ranges,Males,1479
+2024,June,Yarriambiack,Females,38
+2024,June,Yarriambiack,Males,86
+2023,June,Alpine,Females,33
+2023,June,Alpine,Males,113
+2023,June,Ararat,Females,66
+2023,June,Ararat,Males,224
+2023,June,Ballarat,Females,604
+2023,June,Ballarat,Males,1627
+2023,June,Banyule,Females,278
+2023,June,Banyule,Males,885
+2023,June,Bass Coast,Females,223
+2023,June,Bass Coast,Males,560
+2023,June,Baw Baw,Females,204
+2023,June,Baw Baw,Males,755
+2023,June,Bayside,Females,236
+2023,June,Bayside,Males,560
+2023,June,Benalla,Females,88
+2023,June,Benalla,Males,333
+2023,June,Boroondara,Females,300
+2023,June,Boroondara,Males,743
+2023,June,Brimbank,Females,657
+2023,June,Brimbank,Males,2177
+2023,June,Buloke,Females,17
+2023,June,Buloke,Males,41
+2023,June,Campaspe,Females,147
+2023,June,Campaspe,Males,621
+2023,June,Cardinia,Females,400
+2023,June,Cardinia,Males,1156
+2023,June,Casey,Females,1317
+2023,June,Casey,Males,4101
+2023,June,Central Goldfields,Females,115
+2023,June,Central Goldfields,Males,259
+2023,June,Colac-Otway,Females,128
+2023,June,Colac-Otway,Males,291
+2023,June,Corangamite,Females,36
+2023,June,Corangamite,Males,139
+2023,June,Darebin,Females,441
+2023,June,Darebin,Males,1269
+2023,June,East Gippsland,Females,405
+2023,June,East Gippsland,Males,1183
+2023,June,Frankston,Females,704
+2023,June,Frankston,Males,1926
+2023,June,Gannawarra,Females,44
+2023,June,Gannawarra,Males,145
+2023,June,Glen Eira,Females,312
+2023,June,Glen Eira,Males,813
+2023,June,Glenelg,Females,125
+2023,June,Glenelg,Males,299
+2023,June,Golden Plains,Females,76
+2023,June,Golden Plains,Males,159
+2023,June,Greater Bendigo,Females,582
+2023,June,Greater Bendigo,Males,1889
+2023,June,Greater Dandenong,Females,635
+2023,June,Greater Dandenong,Males,2017
+2023,June,Greater Geelong,Females,1322
+2023,June,Greater Geelong,Males,3533
+2023,June,Greater Shepparton,Females,434
+2023,June,Greater Shepparton,Males,1310
+2023,June,Hepburn,Females,35
+2023,June,Hepburn,Males,137
+2023,June,Hindmarsh,Females,17
+2023,June,Hindmarsh,Males,71
+2023,June,Hobsons Bay,Females,272
+2023,June,Hobsons Bay,Males,718
+2023,June,Horsham,Females,153
+2023,June,Horsham,Males,438
+2023,June,Hume,Females,873
+2023,June,Hume,Males,2758
+2023,June,Indigo,Females,53
+2023,June,Indigo,Males,149
+2023,June,Kingston,Females,475
+2023,June,Kingston,Males,1371
+2023,June,Knox,Females,494
+2023,June,Knox,Males,1467
+2023,June,Latrobe,Females,741
+2023,June,Latrobe,Males,1821
+2023,June,Loddon,Females,38
+2023,June,Loddon,Males,82
+2023,June,Macedon Ranges,Females,123
+2023,June,Macedon Ranges,Males,346
+2023,June,Manningham,Females,308
+2023,June,Manningham,Males,691
+2023,June,Mansfield,Females,12
+2023,June,Mansfield,Males,72
+2023,June,Maribyrnong,Females,316
+2023,June,Maribyrnong,Males,897
+2023,June,Maroondah,Females,321
+2023,June,Maroondah,Males,1023
+2023,June,Melbourne,Females,523
+2023,June,Melbourne,Males,1589
+2023,June,Melton,Females,681
+2023,June,Melton,Males,2119
+2023,June,Merri-bek,Females,493
+2023,June,Merri-bek,Males,1491
+2023,June,Mildura,Females,516
+2023,June,Mildura,Males,1424
+2023,June,Mitchell,Females,269
+2023,June,Mitchell,Males,823
+2023,June,Moira,Females,125
+2023,June,Moira,Males,499
+2023,June,Monash,Females,499
+2023,June,Monash,Males,1344
+2023,June,Moonee Valley,Females,322
+2023,June,Moonee Valley,Males,943
+2023,June,Moorabool,Females,157
+2023,June,Moorabool,Males,386
+2023,June,Mornington Peninsula,Females,558
+2023,June,Mornington Peninsula,Males,1387
+2023,June,Mount Alexander,Females,61
+2023,June,Mount Alexander,Males,170
+2023,June,Moyne,Females,39
+2023,June,Moyne,Males,137
+2023,June,Murrindindi,Females,46
+2023,June,Murrindindi,Males,141
+2023,June,Nillumbik,Females,94
+2023,June,Nillumbik,Males,325
+2023,June,Northern Grampians,Females,78
+2023,June,Northern Grampians,Males,219
+2023,June,Port Phillip,Females,346
+2023,June,Port Phillip,Males,1091
+2023,June,Pyrenees,Females,24
+2023,June,Pyrenees,Males,74
+2023,June,Queenscliffe,Females,4
+2023,June,Queenscliffe,Males,6
+2023,June,South Gippsland,Females,122
+2023,June,South Gippsland,Males,390
+2023,June,Southern Grampians,Females,76
+2023,June,Southern Grampians,Males,208
+2023,June,Stonnington,Females,241
+2023,June,Stonnington,Males,726
+2023,June,Strathbogie,Females,29
+2023,June,Strathbogie,Males,116
+2023,June,Surf Coast,Females,87
+2023,June,Surf Coast,Males,182
+2023,June,Swan Hill,Females,175
+2023,June,Swan Hill,Males,404
+2023,June,Towong,Females,22
+2023,June,Towong,Males,65
+2023,June,Wangaratta,Females,154
+2023,June,Wangaratta,Males,477
+2023,June,Warrnambool,Females,145
+2023,June,Warrnambool,Males,584
+2023,June,Wellington,Females,382
+2023,June,Wellington,Males,966
+2023,June,West Wimmera,Females,4
+2023,June,West Wimmera,Males,38
+2023,June,Whitehorse,Females,372
+2023,June,Whitehorse,Males,1095
+2023,June,Whittlesea,Females,559
+2023,June,Whittlesea,Males,2078
+2023,June,Wodonga,Females,277
+2023,June,Wodonga,Males,787
+2023,June,Wyndham,Females,1218
+2023,June,Wyndham,Males,3271
+2023,June,Yarra,Females,273
+2023,June,Yarra,Males,780
+2023,June,Yarra Ranges,Females,505
+2023,June,Yarra Ranges,Males,1469
+2023,June,Yarriambiack,Females,28
+2023,June,Yarriambiack,Males,94
+2022,June,Alpine,Females,40
+2022,June,Alpine,Males,101
+2022,June,Ararat,Females,62
+2022,June,Ararat,Males,203
+2022,June,Ballarat,Females,525
+2022,June,Ballarat,Males,1512
+2022,June,Banyule,Females,273
+2022,June,Banyule,Males,919
+2022,June,Bass Coast,Females,295
+2022,June,Bass Coast,Males,581
+2022,June,Baw Baw,Females,254
+2022,June,Baw Baw,Males,692
+2022,June,Bayside,Females,210
+2022,June,Bayside,Males,547
+2022,June,Benalla,Females,76
+2022,June,Benalla,Males,285
+2022,June,Boroondara,Females,324
+2022,June,Boroondara,Males,698
+2022,June,Brimbank,Females,599
+2022,June,Brimbank,Males,2151
+2022,June,Buloke,Females,18
+2022,June,Buloke,Males,61
+2022,June,Campaspe,Females,187
+2022,June,Campaspe,Males,700
+2022,June,Cardinia,Females,410
+2022,June,Cardinia,Males,1163
+2022,June,Casey,Females,1218
+2022,June,Casey,Males,3777
+2022,June,Central Goldfields,Females,96
+2022,June,Central Goldfields,Males,243
+2022,June,Colac-Otway,Females,85
+2022,June,Colac-Otway,Males,308
+2022,June,Corangamite,Females,33
+2022,June,Corangamite,Males,130
+2022,June,Darebin,Females,408
+2022,June,Darebin,Males,1216
+2022,June,East Gippsland,Females,457
+2022,June,East Gippsland,Males,1187
+2022,June,Frankston,Females,665
+2022,June,Frankston,Males,1941
+2022,June,Gannawarra,Females,42
+2022,June,Gannawarra,Males,119
+2022,June,Glen Eira,Females,307
+2022,June,Glen Eira,Males,886
+2022,June,Glenelg,Females,100
+2022,June,Glenelg,Males,313
+2022,June,Golden Plains,Females,55
+2022,June,Golden Plains,Males,122
+2022,June,Greater Bendigo,Females,575
+2022,June,Greater Bendigo,Males,1646
+2022,June,Greater Dandenong,Females,577
+2022,June,Greater Dandenong,Males,1936
+2022,June,Greater Geelong,Females,1197
+2022,June,Greater Geelong,Males,3182
+2022,June,Greater Shepparton,Females,388
+2022,June,Greater Shepparton,Males,1337
+2022,June,Hepburn,Females,40
+2022,June,Hepburn,Males,140
+2022,June,Hindmarsh,Females,19
+2022,June,Hindmarsh,Males,62
+2022,June,Hobsons Bay,Females,247
+2022,June,Hobsons Bay,Males,779
+2022,June,Horsham,Females,133
+2022,June,Horsham,Males,378
+2022,June,Hume,Females,883
+2022,June,Hume,Males,2861
+2022,June,Indigo,Females,38
+2022,June,Indigo,Males,153
+2022,June,Kingston,Females,499
+2022,June,Kingston,Males,1346
+2022,June,Knox,Females,508
+2022,June,Knox,Males,1426
+2022,June,Latrobe,Females,705
+2022,June,Latrobe,Males,1847
+2022,June,Loddon,Females,33
+2022,June,Loddon,Males,83
+2022,June,Macedon Ranges,Females,109
+2022,June,Macedon Ranges,Males,356
+2022,June,Manningham,Females,242
+2022,June,Manningham,Males,707
+2022,June,Mansfield,Females,19
+2022,June,Mansfield,Males,103
+2022,June,Maribyrnong,Females,268
+2022,June,Maribyrnong,Males,748
+2022,June,Maroondah,Females,353
+2022,June,Maroondah,Males,1031
+2022,June,Melbourne,Females,564
+2022,June,Melbourne,Males,1598
+2022,June,Melton,Females,696
+2022,June,Melton,Males,2177
+2022,June,Merri-bek,Females,517
+2022,June,Merri-bek,Males,1474
+2022,June,Mildura,Females,591
+2022,June,Mildura,Males,1399
+2022,June,Mitchell,Females,213
+2022,June,Mitchell,Males,770
+2022,June,Moira,Females,105
+2022,June,Moira,Males,375
+2022,June,Monash,Females,514
+2022,June,Monash,Males,1433
+2022,June,Moonee Valley,Females,284
+2022,June,Moonee Valley,Males,913
+2022,June,Moorabool,Females,97
+2022,June,Moorabool,Males,391
+2022,June,Mornington Peninsula,Females,523
+2022,June,Mornington Peninsula,Males,1516
+2022,June,Mount Alexander,Females,46
+2022,June,Mount Alexander,Males,139
+2022,June,Moyne,Females,37
+2022,June,Moyne,Males,137
+2022,June,Murrindindi,Females,55
+2022,June,Murrindindi,Males,162
+2022,June,Nillumbik,Females,107
+2022,June,Nillumbik,Males,347
+2022,June,Northern Grampians,Females,66
+2022,June,Northern Grampians,Males,206
+2022,June,Port Phillip,Females,338
+2022,June,Port Phillip,Males,1056
+2022,June,Pyrenees,Females,17
+2022,June,Pyrenees,Males,70
+2022,June,Queenscliffe,Females,6
+2022,June,Queenscliffe,Males,8
+2022,June,South Gippsland,Females,120
+2022,June,South Gippsland,Males,419
+2022,June,Southern Grampians,Females,61
+2022,June,Southern Grampians,Males,179
+2022,June,Stonnington,Females,212
+2022,June,Stonnington,Males,680
+2022,June,Strathbogie,Females,49
+2022,June,Strathbogie,Males,116
+2022,June,Surf Coast,Females,100
+2022,June,Surf Coast,Males,204
+2022,June,Swan Hill,Females,171
+2022,June,Swan Hill,Males,432
+2022,June,Towong,Females,7
+2022,June,Towong,Males,25
+2022,June,Wangaratta,Females,175
+2022,June,Wangaratta,Males,443
+2022,June,Warrnambool,Females,159
+2022,June,Warrnambool,Males,491
+2022,June,Wellington,Females,340
+2022,June,Wellington,Males,877
+2022,June,West Wimmera,Females,8
+2022,June,West Wimmera,Males,38
+2022,June,Whitehorse,Females,367
+2022,June,Whitehorse,Males,1003
+2022,June,Whittlesea,Females,683
+2022,June,Whittlesea,Males,2266
+2022,June,Wodonga,Females,237
+2022,June,Wodonga,Males,676
+2022,June,Wyndham,Females,938
+2022,June,Wyndham,Males,3091
+2022,June,Yarra,Females,314
+2022,June,Yarra,Males,811
+2022,June,Yarra Ranges,Females,473
+2022,June,Yarra Ranges,Males,1489
+2022,June,Yarriambiack,Females,24
+2022,June,Yarriambiack,Males,73
+2021,June,Alpine,Females,31
+2021,June,Alpine,Males,123
+2021,June,Ararat,Females,80
+2021,June,Ararat,Males,250
+2021,June,Ballarat,Females,624
+2021,June,Ballarat,Males,1738
+2021,June,Banyule,Females,363
+2021,June,Banyule,Males,996
+2021,June,Bass Coast,Females,258
+2021,June,Bass Coast,Males,709
+2021,June,Baw Baw,Females,261
+2021,June,Baw Baw,Males,765
+2021,June,Bayside,Females,187
+2021,June,Bayside,Males,564
+2021,June,Benalla,Females,101
+2021,June,Benalla,Males,287
+2021,June,Boroondara,Females,300
+2021,June,Boroondara,Males,691
+2021,June,Brimbank,Females,599
+2021,June,Brimbank,Males,2385
+2021,June,Buloke,Females,14
+2021,June,Buloke,Males,58
+2021,June,Campaspe,Females,176
+2021,June,Campaspe,Males,605
+2021,June,Cardinia,Females,381
+2021,June,Cardinia,Males,1167
+2021,June,Casey,Females,1387
+2021,June,Casey,Males,4094
+2021,June,Central Goldfields,Females,88
+2021,June,Central Goldfields,Males,232
+2021,June,Colac-Otway,Females,84
+2021,June,Colac-Otway,Males,333
+2021,June,Corangamite,Females,36
+2021,June,Corangamite,Males,111
+2021,June,Darebin,Females,463
+2021,June,Darebin,Males,1404
+2021,June,East Gippsland,Females,427
+2021,June,East Gippsland,Males,1138
+2021,June,Frankston,Females,702
+2021,June,Frankston,Males,2016
+2021,June,Gannawarra,Females,53
+2021,June,Gannawarra,Males,137
+2021,June,Glen Eira,Females,285
+2021,June,Glen Eira,Males,801
+2021,June,Glenelg,Females,116
+2021,June,Glenelg,Males,311
+2021,June,Golden Plains,Females,33
+2021,June,Golden Plains,Males,155
+2021,June,Greater Bendigo,Females,613
+2021,June,Greater Bendigo,Males,1913
+2021,June,Greater Dandenong,Females,674
+2021,June,Greater Dandenong,Males,2112
+2021,June,Greater Geelong,Females,1159
+2021,June,Greater Geelong,Males,3152
+2021,June,Greater Shepparton,Females,322
+2021,June,Greater Shepparton,Males,1300
+2021,June,Hepburn,Females,40
+2021,June,Hepburn,Males,127
+2021,June,Hindmarsh,Females,27
+2021,June,Hindmarsh,Males,83
+2021,June,Hobsons Bay,Females,294
+2021,June,Hobsons Bay,Males,789
+2021,June,Horsham,Females,150
+2021,June,Horsham,Males,392
+2021,June,Hume,Females,1000
+2021,June,Hume,Males,3171
+2021,June,Indigo,Females,45
+2021,June,Indigo,Males,113
+2021,June,Kingston,Females,429
+2021,June,Kingston,Males,1260
+2021,June,Knox,Females,540
+2021,June,Knox,Males,1401
+2021,June,Latrobe,Females,715
+2021,June,Latrobe,Males,1806
+2021,June,Loddon,Females,42
+2021,June,Loddon,Males,95
+2021,June,Macedon Ranges,Females,86
+2021,June,Macedon Ranges,Males,358
+2021,June,Manningham,Females,243
+2021,June,Manningham,Males,667
+2021,June,Mansfield,Females,23
+2021,June,Mansfield,Males,99
+2021,June,Maribyrnong,Females,235
+2021,June,Maribyrnong,Males,728
+2021,June,Maroondah,Females,353
+2021,June,Maroondah,Males,1050
+2021,June,Melbourne,Females,495
+2021,June,Melbourne,Males,1639
+2021,June,Melton,Females,745
+2021,June,Melton,Males,2341
+2021,June,Merri-bek,Females,475
+2021,June,Merri-bek,Males,1464
+2021,June,Mildura,Females,438
+2021,June,Mildura,Males,1195
+2021,June,Mitchell,Females,296
+2021,June,Mitchell,Males,927
+2021,June,Moira,Females,98
+2021,June,Moira,Males,397
+2021,June,Monash,Females,450
+2021,June,Monash,Males,1348
+2021,June,Moonee Valley,Females,287
+2021,June,Moonee Valley,Males,946
+2021,June,Moorabool,Females,132
+2021,June,Moorabool,Males,376
+2021,June,Mornington Peninsula,Females,488
+2021,June,Mornington Peninsula,Males,1668
+2021,June,Mount Alexander,Females,44
+2021,June,Mount Alexander,Males,157
+2021,June,Moyne,Females,48
+2021,June,Moyne,Males,143
+2021,June,Murrindindi,Females,37
+2021,June,Murrindindi,Males,170
+2021,June,Nillumbik,Females,140
+2021,June,Nillumbik,Males,365
+2021,June,Northern Grampians,Females,60
+2021,June,Northern Grampians,Males,237
+2021,June,Port Phillip,Females,341
+2021,June,Port Phillip,Males,1048
+2021,June,Pyrenees,Females,30
+2021,June,Pyrenees,Males,82
+2021,June,Queenscliffe,Females,5
+2021,June,Queenscliffe,Males,10
+2021,June,South Gippsland,Females,144
+2021,June,South Gippsland,Males,388
+2021,June,Southern Grampians,Females,78
+2021,June,Southern Grampians,Males,228
+2021,June,Stonnington,Females,258
+2021,June,Stonnington,Males,749
+2021,June,Strathbogie,Females,41
+2021,June,Strathbogie,Males,142
+2021,June,Surf Coast,Females,73
+2021,June,Surf Coast,Males,221
+2021,June,Swan Hill,Females,224
+2021,June,Swan Hill,Males,454
+2021,June,Towong,Females,15
+2021,June,Towong,Males,50
+2021,June,Wangaratta,Females,190
+2021,June,Wangaratta,Males,444
+2021,June,Warrnambool,Females,158
+2021,June,Warrnambool,Males,480
+2021,June,Wellington,Females,387
+2021,June,Wellington,Males,955
+2021,June,West Wimmera,Females,10
+2021,June,West Wimmera,Males,32
+2021,June,Whitehorse,Females,417
+2021,June,Whitehorse,Males,1042
+2021,June,Whittlesea,Females,767
+2021,June,Whittlesea,Males,2532
+2021,June,Wodonga,Females,197
+2021,June,Wodonga,Males,571
+2021,June,Wyndham,Females,884
+2021,June,Wyndham,Males,3084
+2021,June,Yarra,Females,351
+2021,June,Yarra,Males,804
+2021,June,Yarra Ranges,Females,364
+2021,June,Yarra Ranges,Males,1360
+2021,June,Yarriambiack,Females,31
+2021,June,Yarriambiack,Males,74
